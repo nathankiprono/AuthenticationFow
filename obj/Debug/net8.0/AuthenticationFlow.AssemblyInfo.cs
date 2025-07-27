@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthenticationFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04450713b6ed5771b056044e869e79c3e9e975f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthenticationFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthenticationFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
