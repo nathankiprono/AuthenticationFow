@@ -22,7 +22,7 @@ A modern ASP.NET Core MVC authentication system with email OTP verification, JWT
 - `appsettings.json` - Configuration (DB, JWT, SMTP)
 
 ## Setup & Run
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/nathankiprono/AuthenticationFows.git`
 2. Update `appsettings.json` with your DB, JWT, and SMTP credentials
 3. Run migrations: `dotnet ef database update`
 4. Start the app: `dotnet run` or via Visual Studio
